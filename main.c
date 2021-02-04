@@ -8,5 +8,6 @@ int main()
     printf("Hello world!\nvghvh");
     printf("Hello World!\n I'm Sanjana Gs");
     printf("\n I'm Gouthamm G");
+     printf("\n my name is madura");
     return 0;
 }
