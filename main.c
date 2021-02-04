@@ -2,8 +2,6 @@
 
 int main()
 {
-    printf("Hello world!\n
-    
-    vghvh");
+    printf("Hello world!\n I'm Sanjana Gs");
     return 0;
 }
