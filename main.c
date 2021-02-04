@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello world!\n my name is pr.");
+    printf("Hello world!\n my name is preetham");
     printf("\n my name is abhisar.");
      printf("\n my name is mounika");
     printf("Hello World!\n I'm Sanjana Gs");
