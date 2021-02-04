@@ -9,7 +9,7 @@ int main()
     printf("Hello World!\n I'm Sanjana Gs");
     printf("My name is suryudu\n");
     
+    printf("\n I'm Gouthamm G");
+     printf("\n my name is madura");
     return 0;
-
-    
 }
